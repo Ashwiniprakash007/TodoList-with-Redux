@@ -1,0 +1,39 @@
+{
+  "todos": [
+    {
+      "title": "buy car",
+      "status": false,
+      "id": 6
+    },
+    {
+      "title": "buy home",
+      "status": true,
+      "id": 7
+    },
+    {
+      "title": "buy milk",
+      "status": false,
+      "id": 8
+    },
+    {
+      "title": "buy house",
+      "status": false,
+      "id": 10
+    },
+    {
+      "title": "buy halicoptar",
+      "status": false,
+      "id": 11
+    },
+    {
+      "title": "buy india",
+      "status": false,
+      "id": 12
+    },
+    {
+      "title": "buy jewelery",
+      "status": false,
+      "id": 13
+    }
+  ]
+}
